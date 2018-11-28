@@ -1,0 +1,26 @@
+body{
+	display: flex;
+}
+div{
+	width: 200px;
+	height: 200px;
+}
+#Zgoraj{
+	background-color: orange;
+	margin-left: 200px;
+}
+#CenterDesno{
+	background-color: blue;
+	margin-top: 200px;
+	margin-left: -200px;
+}
+#CenterLevo{
+	background-color: green;
+	margin-top: 200px;
+	margin-left: -400px;
+}
+#Spodaj{
+	background-color: red;
+	margin-top: 400px;
+	margin-left: -200px;
+}
